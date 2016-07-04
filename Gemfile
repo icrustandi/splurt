@@ -43,3 +43,5 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'rails_12factor', group: :production
+# Track 2 Lesson 2 to add 12factor gem
