@@ -39,6 +39,8 @@
   color:black;
   font-size: 25px;
   border-bottom: 1px solid #0079A3;
+  font-family: 'roboto_slablight', serif;
+  font-weight: bold;
 }
 
 header {
@@ -47,4 +49,12 @@ header {
 
 hr {
   clear:both;
+}
+h1 {
+  font-family: 'roboto_slabthin', serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+h2 {
+  font-family: 'roboto_slablight', serif;
 }
