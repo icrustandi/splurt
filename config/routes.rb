@@ -54,5 +54,7 @@ Splurty::Application.routes.draw do
   #     resources :products
   #   end
 root 'quotes#index'
+resources :quotes
+
 
 end
