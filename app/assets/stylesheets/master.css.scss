@@ -106,3 +106,7 @@ h3 {
 ::selection {
   background-color: #B81111;
 }
+
+::-moz-selection {
+  background: #B81111; 
+}
